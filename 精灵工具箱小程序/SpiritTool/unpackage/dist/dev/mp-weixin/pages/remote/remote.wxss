@@ -1,0 +1,33 @@
+
+.content {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+}
+.uni-card {
+	box-shadow: none;
+}
+.uni-body {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	width: 500rpx;
+}
+.logo {
+	height: 200rpx;
+	width: 200rpx;
+	margin-top: 100rpx;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 50rpx;
+	border-radius: 50rpx;
+	border: 5rpx solid #6699FF;
+}
+.mini-btn {
+	width: 80%;
+	margin-top: 20px;
+	line-height: 2;
+}
+

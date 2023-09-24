@@ -1,0 +1,50 @@
+
+.container {
+	padding: 5px;
+	font-size: 14px;
+	line-height: 24px;
+}
+.uni-card {
+	box-shadow: none;
+}
+.uni-body {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	width: 500rpx;
+}
+.logo { 
+	height: 300rpx;
+	width: 700rpx;
+	margin-top: 50rpx;
+	margin-left: 10rpx;
+	margin-right: auto;
+	margin-bottom: 50rpx;
+	border-radius: 20rpx;
+}
+.mini-btn {
+	width: 80%;
+	margin-top: 20px;
+	line-height: 2;
+}
+.image {
+	width: 25px;
+	height: 25px;
+}
+.text {
+	font-size: 14px;
+	margin-top: 5px;
+}
+.grid-item-box {
+	flex: 1;
+	/* position: relative; */
+
+	display: flex;
+
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	padding: 15px 0;
+}
+

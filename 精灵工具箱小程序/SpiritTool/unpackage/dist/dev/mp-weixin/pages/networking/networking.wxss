@@ -1,0 +1,21 @@
+
+.content {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+}
+.uni-input {
+	border: 1rpx solid #000000;
+	padding: 10rpx 30rpx;
+	border-radius: 10rpx;
+}
+.mini-btn {
+	width: 80%;
+	margin-top: 20px;
+	line-height: 2;
+}
+.uni-form-item .title {
+	padding: 20rpx 0;
+}
+

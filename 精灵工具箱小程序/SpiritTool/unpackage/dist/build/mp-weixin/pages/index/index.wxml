@@ -1,0 +1,1 @@
+<view class="content"><image class="logo" src="/static/logo.png"></image><view class="text-area"><text class="title">{{title}}</text></view><view><button type="default" data-event-opts="{{[['tap',[['goto']]]]}}" bindtap="__e">开机</button></view></view>
